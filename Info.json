@@ -1,0 +1,11 @@
+{
+  "Id": "ChargedWaterFix",
+  "DisplayName": "Extended Range Charged Water Fix",
+  "Author": "",
+  "Version": "0.1",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "ChargedWaterFix.dll",
+  "EntryMethod": "ChargedWaterFix.Main.Load"
+}
+
