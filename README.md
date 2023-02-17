@@ -44,3 +44,7 @@ instead of
 ```
 
 Replacing the conditional with one with IntConstant 0 instead of null fixes the issue
+
+---
+
+Made using [WittleWolfie's Blueprint Core](https://github.com/WittleWolfie/WW-Blueprint-Core)
