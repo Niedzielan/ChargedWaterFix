@@ -1,3 +1,6 @@
+#Notice
+As of 2.1.0u claims to have fixed the issue
+
 # ChargedWaterFix
 Pathfinder: Wrath Of The Righteous - Extended Range Charged Water Blast 0-damage fix
 
